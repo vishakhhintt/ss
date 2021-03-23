@@ -68,13 +68,4 @@ async function getSEO (router)
 
 }
 export default MyApp
-// function MyApp({ Component, pageProps }) {
-//   return (
-//     <Layout>
-//       <Component {...pageProps} />
-//     </Layout>
-//   )
-  
-// }
 
-// export default MyApp
